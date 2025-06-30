@@ -1,8 +1,5 @@
 # Advanced Portfolio Optimization System
 
-![Tail Dependence Network](tail_dependence.png)  
-*Visualization of tail risk dependencies between portfolio assets*
-
 ## 🔍 Overview
 A production-grade portfolio optimization system blending:
 - **Classical finance** (Markowitz optimization, EVT risk modeling)
